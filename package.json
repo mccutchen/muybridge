@@ -1,0 +1,26 @@
+{
+  "name": "muybridge",
+  "version": "1.0.0",
+  "description": "A simple animation loop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mccutchen/muybridge.git"
+  },
+  "keywords": [
+    "animation",
+    "canvas",
+    "client"
+  ],
+  "author": "Will McCutchen <will@mccutch.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mccutchen/muybridge/issues"
+  },
+  "homepage": "https://github.com/mccutchen/muybridge",
+  "devDependencies": {
+    "browserify": "13.0.1",
+    "stripify": "4.0.0",
+    "watchify": "3.7.0"
+  },
+  "main": "src/muybridge.js"
+}
